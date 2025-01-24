@@ -24,7 +24,7 @@ Check out my projects below:
 
 🎮 [Hangman GUI (2018)](https://github.com/62firelight/hangman-python) - A high school project that recreates the classic Hangman game within a Python GUI.
 
-🎮 [Legend of the Red Dragon (2017)](https://github.com/62firelight/adventure-game-python) - A text adventure game I created in high school by happily crunching for 2 weeks straight 😅
+🎮 [Legend of the Red Dragon (2017)](https://github.com/62firelight/adventure-game-python) - A Python text adventure game I created in high school by happily crunching for 2 weeks straight 😅
 
 <!--
 **62firelight/62firelight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

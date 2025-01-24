@@ -1,4 +1,4 @@
-## Hi 👋 I'm Luke
+## Hi, I'm Luke 👋
 
 I'm a Computer Science Honours graduate who's passionate about developing software 🖥️, websites 🌐 and games 🎮!
 

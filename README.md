@@ -8,11 +8,11 @@ I'm a Computer Science Honours graduate who's passionate about developing softwa
 
 Check out my projects below:
 
-🖥️ [ManimRT (2024)](https://github.com/62firelight/manimRT-490) - A plugin for Manim (a Python library for creating programmatic animations) that makes it easy to create animations for explaining ray tracing. Further documentation is available on its [wiki](https://github.com/62firelight/manimRT-490/wiki). This was my year-long Honours project.
+🖥️ [ManimRT (2024)](https://github.com/62firelight/manimRT-490) - A plugin for Manim (a Python library for creating programmatic animations) that makes it easy to create animations for explaining ray tracing. Further documentation is available on its [wiki](https://github.com/62firelight/manimRT-490/wiki). This plugin was created as part of my year-long Honours project.
 
-🌐 [Destiny 2 Zero Hour Solver (2023)](https://github.com/62firelight/d2-zero-hour-solver)  - A web app that functions as a resource hub for the Zero Hour exotic mission in Destiny 2, a live service game.
+🌐 [Destiny 2 Zero Hour Solver (2023)](https://github.com/62firelight/d2-zero-hour-solver)  - A React web app that functions as a resource hub for the Zero Hour exotic mission in Destiny 2, a live service game.
 
-🌐 [Mass Effect 2 Final Mission Calculator (2023)](https://github.com/62firelight/ME2FMC) - A calculator web app for the final mission of my all-time favourite game, Mass Effect 2 (created using React).
+🌐 [Mass Effect 2 Final Mission Calculator (2023)](https://github.com/62firelight/ME2FMC) - A React web app that calculates the possible outcomes for the final mission of my all-time favourite game, Mass Effect 2 (created using React).
 
 🎮 [Asteroids Recreation (2022)](https://github.com/62firelight/AsteroidsRecreation) - A rudimentary recreation of Asteroids created in Unity.
 

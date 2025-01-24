@@ -1,14 +1,18 @@
 ## Hi 👋 I'm Luke
 
-I'm a Computer Science Honours graduate who's passionate about developing software (especially if it's related to web apps 🌐 or games! 🎮)
+I'm a Computer Science Honours graduate who's passionate about developing software 🖥️ (especially if it's related to websites 🌐 or games! 🎮)
 
 🤔 I'm currently working on revising my web development skills.
 
 ## Projects
 
-Check my projects below:
+Check out my projects below:
 
-🌐 [Mass Effect 2 Final Mission Calculator (2023)](https://github.com/62firelight/ME2FMC) - A calculator for the final mission of Mass Effect 2 (created using React)
+🖥️ [ManimRT (2024)](https://github.com/62firelight/manimRT-490) - A plugin for Manim (a Python library for creating programmatic animations) that makes it easy to create animations for explaining ray tracing. Further documentation is available on its [wiki](https://github.com/62firelight/manimRT-490/wiki)
+
+🌐 [Destiny 2 Zero Hour Solver (2023)](https://github.com/62firelight/d2-zero-hour-solver)  - A web app that functions as a resource hub for the Zero Hour exotic mission in Destiny 2, a live service game
+
+🌐 [Mass Effect 2 Final Mission Calculator (2023)](https://github.com/62firelight/ME2FMC) - A calculator web app for the final mission of my all-time favourite game, Mass Effect 2 (created using React)
 
 🎮 [Asteroids Recreation (2022)](https://github.com/62firelight/AsteroidsRecreation) - A rudimentary recreation of Asteroids created in Unity
 
@@ -20,7 +24,7 @@ Check my projects below:
 
 🎮 [Hangman GUI (2018)](https://github.com/62firelight/hangman-python) - A high school project that recreates the classic Hangman game within a Python GUI
 
-https://github.com/62firelight/adventure-game-python
+🎮 [Legend of the Red Dragon (2017)](https://github.com/62firelight/adventure-game-python) - A text adventure game I created in high school by happily crunching for 2 weeks straight
 
 <!--
 **62firelight/62firelight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

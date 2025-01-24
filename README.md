@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Luke
 
-I'm a Computer Science Honours graduate who's passionate about developing software 🖥️ (especially if it's related to websites 🌐 or games! 🎮)
+I'm a Computer Science Honours graduate who's passionate about developing software 🖥️, websites 🌐 and games 🎮!
 
 🤔 I'm currently working on revising my web development skills.
 

@@ -12,7 +12,7 @@ Check out my projects below:
 
 🌐 [Destiny 2 Zero Hour Solver (2023)](https://github.com/62firelight/d2-zero-hour-solver)  - A React web app that functions as a resource hub for the Zero Hour exotic mission in Destiny 2, a live service game.
 
-🌐 [Mass Effect 2 Final Mission Calculator (2023)](https://github.com/62firelight/ME2FMC) - A React web app that calculates the possible outcomes for the final mission of my all-time favourite game, Mass Effect 2 (created using React).
+🌐 [Mass Effect 2 Final Mission Calculator (2023)](https://github.com/62firelight/ME2FMC) - A React web app that calculates the possible outcomes for the final mission of Mass Effect 2, my all-time favourite game.
 
 🎮 [Asteroids Recreation (2022)](https://github.com/62firelight/AsteroidsRecreation) - A rudimentary recreation of Asteroids created in Unity.
 

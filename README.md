@@ -2,11 +2,13 @@
 
 I'm a Computer Science Honours graduate who's passionate about developing software 🖥️, websites 🌐 and games 🎮!
 
-🤔 I'm currently working on revising my web development skills.
+I'm currently working on revising my web dev and game dev skills! 
 
-## Projects
+## Side Projects
 
-Check out my projects below:
+Check out my side projects below:
+
+🌐 [Japakana (2025)](https://github.com/62firelight/japakana-310) - A simple React website that lets Japanese language learners study any combination of hiragana and katakana characters.
 
 🖥️ [ManimRT (2024)](https://github.com/62firelight/manimRT-490) - A plugin for Manim (a Python library for creating programmatic animations) that makes it easy to create animations for explaining ray tracing. Further documentation is available on its [wiki](https://github.com/62firelight/manimRT-490/wiki). This plugin was created as part of my year-long Honours project.
 
